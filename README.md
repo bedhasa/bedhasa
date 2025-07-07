@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Bedasa 👋
 
-<!--
-**bedhasa/bedhasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at Hawassa University  
+🛠️ Web Developer and problem solver 
+🌍 From Ethiopia | 💻 Love Web & System Dev  
+📫 Reach me: **bdhsane@gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Projects
+- 🔁 [Ekub System](https://github.com/bedhasa/Ekub-system) – A full web app for traditional lottery rotation
+- 🛒 [Online Shopping Site] – (Coming Soon)
+- 📊 [IoT Inventory System] – Smart inventory with PHP + sensors
+
+---
+
+## 💻 Skills
+
+**Languages:**  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![c++](https://img.shields.io/badge/-c++-4479A1?logo=c++&logoColor=white)
+![python](https://img.shields.io/badge/-python-4479A1?logo=python&logoColor=white)
+
+**Tools & Tech:**  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white)
+![AI](https://img.shields.io/badge/-AI-FB7A24?logo=AI&logoColor=red)
+
+---
+
+## 📈 GitHub Stats
+
+![Bedasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bedhasa&show_icons=true&theme=radical)
