@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="photo_2025-07-06_22-05-52.jpg" alt="GitHub banner" width="100%" />
+  <img src="banner.jpg" alt="GitHub banner" width="100%" />
 </p>
 
 # Hi, I'm Bedasa 👋
