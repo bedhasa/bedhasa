@@ -14,7 +14,7 @@
 ## 💼 Projects
 - 🔁 [Ekub System](https://github.com/bedhasa/Ekub-system) – A full web app for traditional lottery rotation
 - 🛒 [Online Shopping Site] – (Coming Soon)
-- 📊 [IoT Inventory System] – Smart inventory with PHP + sensors
+- 📊 [IoT Inventory System] – Smart inventory with PHP 
 
 ---
 
